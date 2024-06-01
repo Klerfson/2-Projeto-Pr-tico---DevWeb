@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="16"
+   height="16"
+   viewBox="0 0 159.9984 159.9984"
+   id="svg1"
+   sodipodi:docname="clock-o.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.964932"
+     inkscape:cx="25.605441"
+     inkscape:cy="7.6538004"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">clock-o</title>
+  <path
+     d="m 93.271681,43.305217 v 46.635659 c 0,1.873806 -1.457364,3.33117 -3.33117,3.33117 H 56.62917 c -1.873806,0 -3.33117,-1.457364 -3.33117,-3.33117 v -6.662342 c 0,-1.873805 1.457364,-3.33117 3.33117,-3.33117 H 79.947 V 43.305217 c 0,-1.873807 1.457364,-3.331171 3.33117,-3.331171 h 6.661977 c 1.873806,0 3.331171,1.457364 3.331171,3.331171 z m 43.304489,36.642147 c 0,-31.229132 -25.39967,-56.629171 -56.62917,-56.629171 -31.229496,0 -56.62917,25.400039 -56.62917,56.629171 0,31.229126 25.399674,56.628806 56.62917,56.628806 31.2295,0 56.62917,-25.39968 56.62917,-56.62917 z m 23.31783,0 C 159.894,124.08474 124.08437,159.894 79.947,159.894 35.809628,159.894 0,124.08437 0,79.947 0,35.809628 35.809264,0 79.947,0 c 44.13774,0 79.947,35.809628 79.947,79.947 z"
+     id="path1"
+     style="stroke-width:0.364341" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>clock-o</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

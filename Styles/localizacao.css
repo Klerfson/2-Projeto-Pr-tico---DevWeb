@@ -1,0 +1,196 @@
+.localização{
+    display: flex;
+    flex-direction:column;
+    justify-content: center; /* Centraliza horizontalmente */
+    text-align: center;
+    background-color: var(--cor-de-fundo);
+
+}
+
+
+.localização__texto{
+    font-size: 20px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.1);
+    margin: 3em 0 1em;
+
+}
+
+.três-pontos{
+    padding: 1em 0 0;
+}
+
+
+.três-pontos1{
+    background-color: var(--laranja);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 3px;
+}
+.três-pontos2{
+    background-color: var(--laranja);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 3px;
+}
+.três-pontos3{
+    background-color: var(--laranja);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 3px;
+}
+
+.localização-endereço{
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.endereço{
+    padding: 1em;
+}
+
+.telefone, .email {
+    padding: 0.2em;
+    
+}
+
+.hora-funcionamento{
+    padding: 0.2em 0 3em;
+}
+
+
+.contate-nos__caixas{
+    padding: 0.7em;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 90%;
+    margin: 0.5em;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    text-align: start
+}
+
+.contate-nos__mensagem{
+    padding: 0.7em;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 90%;
+    margin: 0.5em;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+.botao{
+    color: var(--laranja-claro);
+    background-color: var(--laranja);
+    padding: 1em;
+    border: none;
+    width: 90%;
+    margin-top: 0.5em;
+    cursor: pointer
+}
+
+.mapa{
+padding: 1em;    
+}
+
+
+.input-group input.invalid {
+    border-color: red;
+}
+
+.input-group input.valid {
+    border-color: green;
+}
+
+.mensagem-erro {
+    color: red;
+    display: none;
+ 
+}
+
+.mensagem-erro.visible {
+    display: block;
+    font-size: 10px;
+}
+
+@media screen and (min-width: 1024px) {
+    .localização__texto{
+        font-size: 30px;
+    }
+
+    .localização__grupo{
+        display: flex;
+        align-items: center;
+        padding: 0 5em;
+        
+    }
+
+    .contate-nos__caixas{
+        width: 209%;
+        margin-top: 0.5em;
+        
+    }
+    .contate-nos__mensagem{
+        width: 209%;
+        min-height: 100px;
+        
+    }
+    .botao{
+        width: 209%;
+        margin: 0.5em;
+        cursor: pointer
+    }
+
+    .localização-endereço{
+        font-size: 20px;
+        }
+
+    .localização-endereço, .contate-nos{
+        padding: 0 3em;
+    }
+}
+
+
+@media screen and (min-width: 1728px) {
+    .localização__texto{
+        font-size: 35px;
+    }
+
+    .localização__grupo{
+        display: flex;
+        align-items:center;
+        padding-left: 10em;       
+    }
+
+    .contate-nos__caixas{
+        width: 400%;
+        margin-top: 0.5em;
+        
+    }
+    .contate-nos__mensagem{
+        width: 400%;
+        min-height: 100px;
+          
+    }
+    .botao{
+        width: 400%;
+        margin: 0.5em;
+        cursor: pointer
+    }
+
+    .localização-endereço{
+        font-size: 30px;
+        }
+
+    .localização-endereço, .contate-nos{
+        padding: 0 3em;
+    }
+
+}

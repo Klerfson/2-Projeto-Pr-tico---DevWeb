@@ -1,0 +1,37 @@
+.rodape{
+    font-family: "Lato", sans-serif;
+    font-size: 11px;
+    padding: 2em;
+    color: var(--marron);
+    
+}
+.rodape__texto-lista{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+.rodape__direitos{
+    display: flex;
+    justify-content: center;
+}
+
+.rodape__texto-lista__link{
+    text-decoration: none;
+    padding: 0 1em 1.5em;
+    color: var(--marron);
+}
+
+@media screen and (min-width: 1024px) {
+    .rodape{
+        font-size: 15px;
+    }
+}
+
+
+@media screen and (min-width: 1728px) {
+    
+
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="16"
+   height="16"
+   viewBox="-1 36 160 160"
+   id="svg1"
+   sodipodi:docname="phone.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.703125"
+     inkscape:cx="11.808118"
+     inkscape:cy="9.7220172"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">phone</title>
+  <path
+     d="m 159.03877,162.09366 c 0,4.07649 -1.81644,12.00278 -3.51885,15.73923 -2.38378,5.54841 -8.74051,9.1719 -13.84854,12.00278 -6.69723,3.62351 -13.50806,5.7751 -21.1135,5.7751 -10.55695,0 -20.09205,-4.30279 -29.74038,-7.81295 -6.924471,-2.49123 -13.62129,-5.5484 -19.864796,-9.3982 C 51.655645,166.51019 28.38523,143.29726 16.466353,124.04787 12.606624,117.82018 9.5422797,111.13911 7.0444808,104.23214 3.525631,94.607248 -0.78820787,85.0957 -0.78820787,74.565228 c 0,-7.586648 2.15652217,-14.380271 5.78939587,-21.06134 2.8378845,-5.095416 6.469964,-11.436448 12.032107,-13.814335 3.745705,-1.698208 11.691623,-3.510157 15.778606,-3.510157 0.794592,0 1.589184,0 2.383775,0.339642 2.383775,0.792628 4.88078,6.341031 6.016252,8.605969 3.632477,6.453981 7.151327,13.021705 10.897032,19.362736 1.816437,2.943824 5.22166,6.567724 5.22166,10.077485 0,6.907365 -20.546157,16.984849 -20.546157,23.099189 0,3.057173 2.837884,7.020313 4.427068,9.738233 11.464768,20.60836 25.76742,34.87568 46.426806,46.31213 2.724258,1.58526 6.697217,4.41613 9.762355,4.41613 6.129478,0 16.232318,-20.49501 23.156798,-20.49501 3.51884,0 7.15132,3.39721 10.10243,5.20876 6.35673,3.73646 12.94072,7.24701 19.41069,10.87012 2.27015,1.13227 7.83229,3.6235 8.62688,6.00138 0.34049,0.79264 0.34049,1.58527 0.34049,2.37789 z"
+     id="path1"
+     style="stroke-width:0.396805" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>phone</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

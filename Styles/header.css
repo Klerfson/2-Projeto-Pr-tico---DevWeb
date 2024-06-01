@@ -1,0 +1,138 @@
+.cabeçalho__menu-hamburguer{
+    width: 20px;
+    height: 20px;
+    background-image: url("../imagens/menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    padding: 0.7em;
+}
+
+.cabeçalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Garantir que o cabeçalho fique sobre outros elementos */
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+
+}
+
+.container__imagem{
+    padding: 0.7em;
+}
+
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60%;
+}
+
+.lista-menu.ativo {
+    display: block;
+}
+
+/* .container__botão:checked~.lista-menu {
+    display: block;
+} */
+
+
+.lista-menu__item {
+    padding: 1em;
+    background-color: #181818;
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.lista-menu__link__titulo{
+    color: var(--laranja);
+    text-decoration: none;
+}
+
+.lista-menu__link {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.container__botão{
+    display: none;
+}
+
+.texto__cabeçalho {
+    font-family: "Arvo", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--marron);
+    padding: 0.7em;
+}
+
+.opções{
+    display: none;
+
+}
+
+
+@media screen and (min-width: 1024px) {
+    .opções{
+        display: flex;
+    }
+
+    .opções__item{
+        padding: 0 1em;
+    }
+
+    .opções__link{
+        text-decoration: none; 
+        color:var(--marron);
+        font-family: "Lato", sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+
+    }
+    .texto__cabeçalho container__imagem{
+        font-size: 30px;
+    }
+
+    .cabeçalho{
+        justify-content: space-around;
+    }
+    .cabeçalho__menu-hamburguer{
+        display: none;
+    }
+
+    .texto__cabeçalho{
+        font-size: 30px;
+    }
+
+}
+
+
+@media screen and (min-width: 1728px) {
+    .opções {
+        margin-top: 0;
+    }
+
+    .opções__item{
+        padding: 0 1em;
+    }
+
+}
